@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "description": "Entry point in Microfrontends",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -s -l 4200"
+  },
+  "author": "Maxim Zvagincev",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.1.0"
+  },
+  "dependencies": {}
+}
